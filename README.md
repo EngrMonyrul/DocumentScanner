@@ -8,7 +8,7 @@
 |__assets
    |__images
    |__icons
-   |__label
+   |__label  
 |__lib
    |__core
       |__provider
@@ -19,27 +19,27 @@
          |__screenName
             |__screenView.dart
          |__screenName
-            |__screenView.dart
+            |__screenView.dart  
    |__common
       |__widgets
          |__appbar.dart
       |__components
-         |__constantsValue.dart
+         |__constantsValue.dart  
    |__data
       |__models
          |__model.dart
       |__local
          |__localServices.dart
       |__firebase
-         |__firebaseServices.dart
+         |__firebaseServices.dart  
    |__localizaton
-      |__(All files)
+      |__(All files)  
    |__utils
       |__themes
          |__appTheme.dart
          |__textTheme.dart
          |__elevatedButtonTheme.dart
-         |__appbarTheme.dart
+         |__appbarTheme.dart  
       |__constants
          |__appStrings.dart
          |__appColors.dart
