@@ -11,7 +11,7 @@
          |__provider.dart
          |__provider.dart
          |__provider.dart
-      |__views
+      |__screens
          |__screenName
             |__screenView.dart
          |__screenName
@@ -32,4 +32,8 @@
          |__appColors.dart
          |__appImages.dart
          |__appIcons.dart
+```
+
+```shell
+do not push code just commit in your own bruch
 ```
