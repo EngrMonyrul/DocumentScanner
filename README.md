@@ -1,15 +1,35 @@
 # Folder Structure
 
 ```bash
-|__lib
-   |__core
-      |__provider
+|__assets/
+   |__images/
+   |__icons/
+   |__label/
+|__lib/
+   |__core/
+      |__provider/
          |__provider.dart
          |__provider.dart
          |__provider.dart
-      |__views
-         |__screenName
+      |__views/
+         |__screenName/
             |__screenView.dart
-         |__screenName
+         |__screenName/
             |__screenView.dart
+   |__common/
+      |__widgets/
+         |__appbar.dart
+      |__components/
+         |__constantsValue.dart
+   |__utils/
+      |__themes/
+         |__appTheme.dart
+         |__textTheme.dart
+         |__elevatedButtonTheme.dart
+         |__appbarTheme.dart
+      |__constants/
+         |__appStrings.dart
+         |__appColors.dart
+         |__appImages.dart
+         |__appIcons.dart
 ```
