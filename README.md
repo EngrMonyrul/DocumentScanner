@@ -44,6 +44,8 @@
 
 > [!WARNING]
 > Please submit your code in 30 days
+> Start Date: 3-5-24 | End Date: 4-6-24
+> Penalty: Kacchi
 
 > [!IMPORTANT]
 > Cone this project and work in your branch
