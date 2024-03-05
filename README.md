@@ -43,8 +43,8 @@
 > Don't push your code into main or master branch, just commit it in your own branch
 
 > [!WARNING]
-> Please submit your code in 30 days
-> Start Date: 3-5-24 | End Date: 4-6-24
+> Please submit your code in 30 days  
+> Start Date: 3-5-24 | End Date: 4-6-24  
 > Penalty: Kacchi
 
 > [!IMPORTANT]
