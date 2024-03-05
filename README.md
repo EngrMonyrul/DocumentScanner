@@ -63,3 +63,12 @@
 ```shell 
 git clone https://github.com/EngrMonyrul/DocumentScanner.git
 ```
+
+# Branch Status
+
+```bash
+|__master
+   |__monirul_dev
+   |__reasel_dev
+   |__piyal_dev
+```
