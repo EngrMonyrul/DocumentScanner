@@ -1,3 +1,6 @@
+# Design
+[Figma file](https://www.figma.com/community/file/1218823989467855715)
+
 # Folder Structure
 
 ```bash
@@ -38,4 +41,3 @@
 do not push code in main or master branch just commit in your own branch
 ```
 
-[Figma file](https://www.figma.com/community/file/1218823989467855715)
