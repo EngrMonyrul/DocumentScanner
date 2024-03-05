@@ -25,6 +25,15 @@
          |__appbar.dart
       |__components
          |__constantsValue.dart
+   |__data
+      |__models
+         |__model.dart
+      |__local
+         |__localServices.dart
+      |__firebase
+         |__firebaseServices.dart
+   |__localizaton
+      |__(All files)
    |__utils
       |__themes
          |__appTheme.dart
