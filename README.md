@@ -46,4 +46,7 @@
 > Please submit your code in 30 days
 
 > [!IMPORTANT]
-> 
+> Clone this project
+> ```shell
+git clone https://github.com/EngrMonyrul/DocumentScanner.git
+```
