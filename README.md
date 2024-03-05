@@ -1,5 +1,5 @@
 # Design
-[Figma file](https://www.figma.com/community/file/1218823989467855715)
+[Figma file - Click to open figma design](https://www.figma.com/community/file/1218823989467855715)
 
 # Folder Structure
 
