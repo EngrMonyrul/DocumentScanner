@@ -35,5 +35,5 @@
 ```
 
 ```shell
-do not push code just commit in your own bruch
+do not push code in main or master branch just commit in your own branch
 ```
