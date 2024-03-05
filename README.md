@@ -37,7 +37,6 @@
          |__appIcons.dart
 ```
 
-```text
-do not push code in main or master branch just commit in your own branch
-```
+> [!NOTE]
+> Don't push your code into main or master branch, just commit it in your own branch
 
