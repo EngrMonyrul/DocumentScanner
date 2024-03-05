@@ -37,6 +37,6 @@
          |__appIcons.dart
 ```
 
-> [!NOTE]
+> [!CAUTION]
 > Don't push your code into main or master branch, just commit it in your own branch
 
